@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm shoru-sssssaaaaaa - I'm a fullstack developer. I'm interested in development, moderation, and building thriving online communities.
+I'm shoru-sssssaaaaaa - I'm a fullstack developer.
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,ktor,mongodb,mysql,postgres,js,ts,react,jest,html,css,aws,azure,docker,git,github,githubactions,gitlab,grafana,graphql,idea,matlab)](https://skillicons.dev)
 <!--
